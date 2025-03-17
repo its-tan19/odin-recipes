@@ -1,3 +1,9 @@
 *{
-    margin: auto;
+    text-decoration: none;
+}
+li{
+    color: tomato;
+}
+a{
+    color: tomato;
 }
